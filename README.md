@@ -1,0 +1,2 @@
+# NUCLEO_L476RG_DFU_SOCK
+MicroPython board definition NUCLEO_L476RG_DFU_SOCK
